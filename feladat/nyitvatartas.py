@@ -5,4 +5,4 @@ if 8 > nyitvatartas:
 elif 8 <= nyitvatartas < 16:
     print(f'A bolt nyitva. Ennyi órád van még odaérni: {odaerni}')
 elif 16 <= nyitvatartas:
-    print(f'{nyitvatartas} A bolt zárva.')
+    print(f'A bolt zárva.')

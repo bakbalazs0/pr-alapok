@@ -1,4 +1,4 @@
-
+#feladat_023
 honapok = ['január', 'február','március', 'április']
 """
 honapok = [""] # üres lista
